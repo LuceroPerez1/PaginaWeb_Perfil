@@ -1,0 +1,51 @@
+body {
+    background-color: #f5f5dc;
+}
+
+.ContenidoTotal {
+    margin-top: 60px;
+}
+
+.NombreLucero {
+    text-align: center;
+}
+
+.ImagenLuceroEstrada {
+    display: flex;
+    border-radius: 50%; 
+    width: 150px; 
+    height: 150px;
+    margin: auto;
+}
+
+.Contenedor_Parrafo {
+    text-align: justify;
+    width: 500px;
+    margin: auto;
+}
+
+.Contenedor_Logo {
+    height: 130%;
+    text-align: center;
+}
+
+.Contenedor_Logo li{
+    display: inline-block;
+    padding: 20px;
+}
+
+
+.LogoLinkedin {
+    width: 45px;
+    height: 45px;
+}
+
+.LogoGitHub {
+    width: 45px;
+    height: 45px;
+}
+
+.LogoTwitter {
+    width: 45px;
+    height: 46px;
+}
